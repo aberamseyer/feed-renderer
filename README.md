@@ -1,4 +1,5 @@
 # Atom Feed Renderer
+vibe coded to quickly test the output of the feeds I was generating for another project
 
 1.  Reads Atom feed plaintext from standard input (stdin).
 2.  Parses the feed using `feedparser`.
